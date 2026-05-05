@@ -1,0 +1,1 @@
+./dtbTool -s 4096 -o /home/username/android_kernel_samsung_msm8974/output/arch/arm/boot/dtb -p /home/username/android_kernel_samsung_msm8974/output/scripts/dtc/ /home/username/android_kernel_samsung_msm8974/output/arch/arm/boot/
